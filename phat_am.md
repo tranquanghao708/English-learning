@@ -20,8 +20,58 @@
 | **reverse** | đảo ngược | /rɪˈvɜːs/ | rɪ-**VỚ-S** *(nhấn âm 2, bật s ở cuối)* |
 | **character** | ký tự / nhân vật | /ˈkærəktə(r)/ | **KÉ**-rắc-tờ *(nhấn âm 1)* |
 | **sequences** | chuỗi / dãy | /ˈsiːkwənsɪz/ | **SÍ**-quờn-sɪz |
-| **consequences** | hệ quả / hậu quả | /ˈkɒnsɪkwənsɪz/ | **KÓN**-sɪ-quờn-sɪz *(từ gốc viết sai chính tả)* |
+| **consequences** | hệ quả / hậu quả | /ˈkɒnsɪkwənsɪz/ | **KÓN**-sɪ-quờn-sɪz |
 | **via** | qua / thông qua | /ˈvaɪə/ hoặc /ˈviːə/ | **VAI**-ờ hoặc **VI**-ờ |
 | **learn** | học | /lɜːn/ | **Lơrn** *(kéo dài âm ơ và uốn lưỡi)* |
 | **observation** | quan sát | /ˌɒbzəˈveɪʃn/ | ób-zơ-**VÂY**-shờn *(nhấn mạnh ở VÂY)* |
 | **approach** | tiếp cận | /əˈprəʊtʃ/ | ờ-**PRỐU-CH** *(bật hơi ch mạnh ở cuối)* |
+| **plus** | cộng | /plʌs/ | **Plắt-s** *(bật s rõ ở cuối)* |
+| **minus** | trừ | /ˈmaɪnəs/ | **MAI**-nớt-s |
+| **times** | nhân với | /taɪmz/ | **Tai-mz** *(bật âm z ở cuối)* |
+| **divided by** | chia cho | /dɪˈvaɪdɪd baɪ/ | dɪ-**VAI**-đɪd bai |
+| **variable** | biến số | /ˈveəriəbl/ | **VÉ**-ri-ờ-bờl |
+| **constant** | hằng số | /ˈkɒnstənt/ | **KÓN**-stờnt |
+| **coefficient** | hệ số | /ˌkəʊɪˈfɪʃnt/ | kô-ɪ-**PHÍSH**-ờnt |
+| **identity** | hằng đẳng thức / đồng nhất | /aɪˈdentəti/ | ai-**ĐÉN**-tờ-ti |
+| **formula** | công thức | /ˈfɔːmjələ/ | **PHÓ**-mju-lờ |
+| **theorem** | định lý | /ˈθɪərəm/ | **THÍ**-ờ-rờm *(thổi hơi âm th đầu)* |
+| **proof** | chứng minh (danh từ) | /pruːf/ | **Prú-ph** *(bật hơi ph rõ ở cuối)* |
+| **prove** | chứng minh (động từ) | /pruːv/ | **Prú-v** *(ngậm môi rung âm v)* |
+| **problem** | bài toán / vấn đề | /ˈprɒbləm/ | **PRÓB**-lờm |
+| **solution** | lời giải / đáp án | /səˈluːʃn/ | sơ-**LÚ**-shờn |
+| **value** | giá trị | /ˈvæljuː/ | **VÁ**-lju |
+| **function** | hàm số | /ˈfʌŋkʃn/ | **PHẤNG**-shờn |
+| **root** | nghiệm (phương trình) / căn | /ruːt/ | **Rút** *(bật âm t ở cuối)* |
+| **square root** | căn bậc hai | /skweə(r) ruːt/ | **Skwé-ờ** rút |
+| **power / exponent** | số mũ / lũy thừa | /ˈpaʊə(r)/ / ɪkˈspəʊnənt/ | **PAU**-ờ / ɪk-**SPÔU**-nờnt |
+| **square** | bình phương | /skweə(r)/ | **Skwé-ờ** |
+| **cube** | lập phương | /kjuːb/ | **Kjúp** *(bật hơi b/p ở cuối)* |
+| **integer** | số nguyên | /ˈɪntɪdʒə(r)/ | **ÍN**-tɪ-dʒờ |
+| **fraction** | phân số | /ˈfrækʃn/ | **FRÁK**-shờn |
+| **ratio** | tỷ số | /ˈreɪʃiəʊ/ | **RÊI**-shi-ô |
+| **graph** | đồ thị | /ɡrɑːf/ hoặc /ɡræf/ | **Gráp-ph** *(bật âm ph ở cuối)* |
+| **axis** | trục | /ˈæksɪs/ | **ÁK**-sɪs |
+| **coordinate** | tọa độ | /kəʊˈɔːdɪneɪt/ | kô-**Ó**-đɪ-neit |
+| **system** | hệ thống | /ˈsɪstəm/ | **SÍT**-stờm |
+| **linear** | tuyến tính | /ˈlɪniə(r)/ | **LÍN**-ni-ờ |
+| **quadric** | bậc hai | /ˈkwɒdrɪk/ | **KWÓ**-drɪk |
+| **maximum** | giá trị lớn nhất | /ˈmæksɪməm/ | **MÁK**-sɪ-mờm |
+| **minimum** | giá trị nhỏ nhất | /ˈmɪnɪməm/ | **MÍN**-ɪ-mờm |
+| **domain** | tập xác định | /dəʊˈmeɪn/ | đô-**MÊIN** |
+| **range** | tập giá trị | /reɪndʒ/ | **RÊIN-dʒ** *(bật âm j uốn lưỡi)* |
+| **set** | tập hợp | /set/ | **Sét** *(bật âm t ở cuối)* |
+| **element** | phần tử | /ˈelɪmənt/ | **É**-lɪ-mờnt |
+| **matrix** | ma trận | /ˈmeɪtrɪks/ | **MÊI**-trɪks |
+| **vector** | vectơ | /ˈvektə(r)/ | **VÉK**-tờ |
+| **binary** | nhị phân | /ˈbaɪnəri/ | **BAI**-nơ-ri |
+| **hexadecimal** | thập lục phân (hex) | /ˌheksəˈdesɪml/ | hék-sơ-**ĐÉ**-sɪ-mờl |
+| **compile** | biên dịch | /kəmˈpaɪl/ | kơm-**PAI-L** *(uốn lưỡi âm L cuối)* |
+| **decompile** | dịch ngược | /ˌdiːkəmˈpaɪl/ | đi-kơm-**PAI-L** |
+| **source code** | mã nguồn | /sɔːs kəʊd/ | **Sót-s** kôd |
+| **assembly** | ngôn ngữ hợp ngữ (Asm) | /əˈsembli/ | ờ-**SÉM**-bli |
+| **execute** | thực thi | /ˈeksɪkjuːt/ | **ÉK**-sɪ-kiút |
+| **memory** | bộ nhớ | /ˈmeməri/ | **MÉM**-ờ-ri |
+| **address** | địa chỉ | /əˈdres/ hoặc /ˈædres/ | ờ-**ĐRÉT-S** hoặc **Á**-đrét-s |
+| **register** | thanh ghi | /ˈredʒɪstə(r)/ | **RÉ**-dʒɪ-stờ |
+| **stack** | vùng nhớ Stack | /stæk/ | **Sták-k** *(bật âm k ở cuối)* |
+| **buffer** | vùng đệm | /ˈbʌfə(r)/ | **BẤP**-phờ |
