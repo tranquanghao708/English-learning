@@ -75,3 +75,16 @@
 | **register** | thanh ghi | /ˈredʒɪstə(r)/ | **RÉ**-dʒɪ-stờ |
 | **stack** | vùng nhớ Stack | /stæk/ | **Sták-k** *(bật âm k ở cuối)* |
 | **buffer** | vùng đệm | /ˈbʌfə(r)/ | **BẤP**-phờ |
+| **internal fragmentation** | lãng phí nội bộ | | |
+| **storage capacity** | dung lượng | | |
+| **architecture** | kiến trúc | | |
+| **about** | về / xấp xỉ | /əˈbaʊt/ | ờ-**BAUT** *(bật âm t cuối)* |
+| **setting** | cài đặt | /ˈsetɪŋ/ | **SÉT**-tɪŋ |
+| **request** | yêu cầu | /rɪˈkwest/ | rɪ-**KWÉST** *(bật rõ cụm s-t ở cuối)* |
+| **responder** | người phản hồi / bộ phản hồi | /rɪˈspɒndə(r)/ | rɪ-**SPÓN**-đờ |
+| **quality** | chất lượng | /ˈkwɒləti/ | **KWÓ**-lờ-ti |
+| **natural** | tự nhiên | /ˈnætʃrəl/ | **NÁ**-chrờl *(âm ch uốn lưỡi)* |
+| **unit** | đơn vị | /ˈjuːnɪt/ | **YÚ**-nɪt *(bật âm t cuối)* |
+| **init** | khởi tạo *(viết tắt của initialize)* | /ˈɪnɪt/ | **Í**-nɪt *(bật âm t cuối)* |
+| **note** | ghi chú / lưu ý | /nəʊt/ | **Nôut** *(bật âm t cuối)* |
+| **not equal to** | khác ($\neq$) | /nɒt ˈiːkwəl tuː/ | nót **Y**-quờl tu |
