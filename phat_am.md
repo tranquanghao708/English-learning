@@ -75,10 +75,10 @@
 | **register** | thanh ghi | /ˈredʒɪstə(r)/ | **RÉ**-dʒɪ-stờ |
 | **stack** | vùng nhớ Stack | /stæk/ | **Sták-k** *(bật âm k ở cuối)* |
 | **buffer** | vùng đệm | /ˈbʌfə(r)/ | **BẤP**-phờ |
-| **internal fragmentation** | lãng phí nội bộ | | |
-| **storage capacity** | dung lượng | | |
-| **architecture** | kiến trúc | | |
-| **about** | về / xấp xỉ | /əˈbaʊt/ | ờ-**BAUT** *(bật âm t cuối)* |
+| **internal fragmentation** | lãng phí nội bộ | /ɪnˈtɜːnl ˌfræɡmenˈteɪʃn/ | ɪn-**TƠRN-L** phrăg-mờn-**TÊI**-shờn |
+| **storage capacity** | dung lượng | /ˈstɔːrɪdʒ kəˈpæsəti/ | **STÓ**-rɪdʒ kơ-**PÁ**-sờ-ti |
+| **architecture** | kiến trúc | /ˈɑːkɪtektʃə(r)/ | **Á**-kɪ-tek-chờ (nhấn âm 1) |
+| **about** | về | /əˈbaʊt/ | ờ-**BAUT** *(bật âm t cuối)* |
 | **setting** | cài đặt | /ˈsetɪŋ/ | **SÉT**-tɪŋ |
 | **request** | yêu cầu | /rɪˈkwest/ | rɪ-**KWÉST** *(bật rõ cụm s-t ở cuối)* |
 | **responder** | người phản hồi / bộ phản hồi | /rɪˈspɒndə(r)/ | rɪ-**SPÓN**-đờ |
@@ -88,3 +88,11 @@
 | **init** | khởi tạo *(viết tắt của initialize)* | /ˈɪnɪt/ | **Í**-nɪt *(bật âm t cuối)* |
 | **note** | ghi chú / lưu ý | /nəʊt/ | **Nôut** *(bật âm t cuối)* |
 | **not equal to** | khác ($\neq$) | /nɒt ˈiːkwəl tuː/ | nót **Y**-quờl tu |
+| **requirement** | yêu cầu | /rɪˈkwaɪəmənt/ | rɪ-**KWA**-i-ờ-mờnt (bật âm t cuối) |
+| **tail** | đuôi | /teɪl/ | **Teil** (đọc têu rồi uốn nhẹ lưỡi chữ L ở cuối) |
+| **approximately equal to** | xấp xỉ $$\large\approx$$ | /əˈprɒksɪmətli ˈiːkwəl tuː/ | ờ-**PRÓK**-sɪ-mət-li **Y**-quờl tu |
+| **interal** | nội bộ | /ɪnˈtɜːnl/ | ɪn-**TƠRN-L** |
+| **deduplication** | loại bỏ trùng lặp | /ˌdiːˌdjuːplɪˈkeɪʃn/ | đi-điúp-lɪ-**KÊI**-shờn |
+| **compressed** | nén | /kəmˈprest/ | kơm-**PRÉST** (bật gió cụm s-t ở cuối) |
+| **allocation** | phân bổ | /ˌæləˈkeɪʃn/ | ả-lờ-**KÊI**-shờn |
+| **alignment** | căn chỉnh / căn lề | | |
